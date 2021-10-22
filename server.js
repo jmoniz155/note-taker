@@ -7,7 +7,7 @@ const apiRoutes = require("./routes/apiRoutes.js");
 
 var app = express();
 
-var PORT = process.env.PORT || 3000;
+var PORT = process.env.port || 3000;
 
 //app.use (MIDDLEWARE... code that is going to run before it hits your route, hence before lines 29 and 30)
 //urlencoded (%20 > space), browser encodes it into appropriate format
