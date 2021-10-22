@@ -3,13 +3,16 @@
 ## Description
 This is a simple Note Taker application that allows users to add, view saved notes and also delete the notes if the user don't need that note anymore. This application uses an express backend and save and retrieve note data from a JSON file.
 
+![](Assets/11-express-homework-demo-01.png)
+![](Assets/11-express-homework-demo-02.png)
+
 ## Function
 
-This team profile generator functions by opening your integrated terminal. Type node index.js in your terminal, when the application runs it then presents a series of questions to the user. When done your responses will be saved in the team.html file.
+This note taker application allows users to add, delete and view saved notes by simply adding your title and your note in the provided sections.
 
 ## Credits
 
-I would like to give credit to my Varsity Tutor for taking the time to help me understand how to use the terminal and vsCode to build this team profile generator.  
+I would like to give credit to my Varsity Tutor for taking the time to help me understand how to link routes to express backend and retrieve the note data.
 
 ## Table of Contents
 
@@ -19,6 +22,8 @@ I would like to give credit to my Varsity Tutor for taking the time to help me u
 
 [Features](#features)
 
+[Links](#links)
+
 [Repository](https://github.com/jmoniz155/note-taker)
 
 [Demo-Video](https://watch.screencastify.com/v/tgMWeluRPy6Yhg2kRrvE)
@@ -26,13 +31,11 @@ I would like to give credit to my Varsity Tutor for taking the time to help me u
 
 ## Study-Material
 
-[Async Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+[BootStrap](https://getbootstrap.com/)
 
 [Inquirer](https://www.npmjs.com/package/inquirer)
 
 [Path](https://www.npmjs.com/package/path)
-
-[Font Awesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
 
 [NodeJs](https://nodejs.org/api/fs.html)
 
