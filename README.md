@@ -56,6 +56,6 @@ This note-taker was built with Express.js, HTML 5 and CSS 3.
 
 [Demo-Video](https://watch.screencastify.com/v/q5ZUy1VfGb5Gzbm0VEjU)
 
-[Heroku-Link](https://git.heroku.com/note-taker-heroku155.git)
+[Heroku-Link](https://dashboard.heroku.com/apps/note-taker-heroku155/settings)
 
 
