@@ -2,6 +2,8 @@
 
 var express = require("express");
 var path = require("path");
+const htmlRoutes = require("./routes/htmlRoutes.js");
+const apiRoutes = require("./routes/apiRoutes.js");
 
 var app = express();
 
@@ -26,8 +28,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 //wherever you have a require
 //require("./routes/apiRoutes.js"); is as if I take the entire function and pasting it here. It looks for module.exports
 //(app) calls the function and passing the paramter (app) and on the server we are passing the app as an argument.
-require("./routes/apiRoutes.js")(app);
-require("./routes/htmlRoutes.js")(app);
+apiRoutes(app);
+htmlRoutes(app);
 
 app.listen(PORT, function() {
     console.log("App listening on PORT: http://localhost:" + PORT);
