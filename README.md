@@ -1,7 +1,7 @@
 # note-taker
 
 ## Description
-This is a simple Note Taker application that allows users to add, view saved notes and delete the notes. This application uses an express backend and a jQuery front end.
+This is a simple Note Taker application that allows users to add, view saved notes and delete the notes. This application uses an express backend, HTML and CSs on the front end.
 
 ![](Assets/11-express-homework-demo-01.png)
 ![](Assets/11-express-homework-demo-02.png)
@@ -26,7 +26,7 @@ I would like to give credit to my Varsity Tutor for taking the time to help me u
 
 [Repository](https://github.com/jmoniz155/note-taker)
 
-[Demo-Video](https://watch.screencastify.com/v/tgMWeluRPy6Yhg2kRrvE)
+[Demo-Video](https://watch.screencastify.com/v/q5ZUy1VfGb5Gzbm0VEjU)
 
 
 ## Study-Material
@@ -48,10 +48,11 @@ I would like to give credit to my Varsity Tutor for taking the time to help me u
 [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
 
 ## Features
-This note-taker was built with Express.js, Node.js, Javascript and uuid.
+This note-taker was built with Express.js, HTML 5 and CSS 3.
 
 ## Links
 
 [Repository](https://github.com/jmoniz155/note-taker)
 
-[Demo-Video](https://watch.screencastify.com/v/tgMWeluRPy6Yhg2kRrvE)
+[Demo-Video](https://watch.screencastify.com/v/q5ZUy1VfGb5Gzbm0VEjU)
+
